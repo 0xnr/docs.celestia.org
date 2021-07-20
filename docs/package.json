@@ -1,10 +1,10 @@
 {
-  "name": "Celestia Docs",
+  "name": "CelestiaDocs",
   "version": "0.0.1",
   "description": "Documentation for the Celestia Protocol",
   "main": "index.js",
   "authors": {
-    "name": "Celstia Admin",
+    "name": "Celstia",
     "email": "admin@celstia.org"
   },
   "repository": "https://github.com/0xnr/docs.celestia.org/Celestia Docs",
