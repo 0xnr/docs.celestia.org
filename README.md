@@ -32,10 +32,10 @@ aside: false
 -->
 
 ## install
-'yarn install'
+`yarn install`
 
 ## serve
-'yarn serve'
+`yarn serve`
 
 ## build for distribution
-'yarn build'
+`yarn build`
