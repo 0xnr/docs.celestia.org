@@ -30,3 +30,12 @@ footer:
   newsletter: false
 aside: false
 -->
+
+## install
+'yarn install'
+
+## serve
+'yarn serve'
+
+## build for distribution
+'yarn build'
